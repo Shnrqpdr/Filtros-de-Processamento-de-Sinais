@@ -10,7 +10,7 @@ x=np.arange(0,4,1)
 
 axes = fig.add_axes([0.1,0.1,0.8,0.8])
 
-while(i <= 10):
+while(i <= 18):
     if(i == 6):
         i = 7
     
